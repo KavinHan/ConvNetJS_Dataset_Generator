@@ -1,8 +1,4 @@
 
-
-## addons
-- ofxXmlSettings
-
 ## How to use?
 1. make ```your_own_image_folder_name``` folder to ```bin/data/```
 2. your_own_image_folder_name folder structure
@@ -17,7 +13,15 @@ bin/data/your_own_image_folder_name/
 5. change bin/data/setting.xml ``` <PREFIX>dataset_prefix_name</PREFIX> ```
 6. run project, you will get dataset_batch_N.png and dataset_labels.js at ```bin/data/output/``` folder
 
-## Support
+## Support OS
+- Window
+- Mac OS X
+
+## addons
+- ofxXmlSettings
+
+
+## Functions
 - Just support grayscale dataset output now
 
 ## Todo
